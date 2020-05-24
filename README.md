@@ -16,7 +16,7 @@ git clone https://github.com/ohdowon064/Python_Algorithm/
 git checkout -b "자신의 영어이름"
 ```
 
-[github.com quick start]![Problem](/Users/Yoon/Python_Algorithm/img/Problem.png)
+[github.com quick start]![Problem](/img/Problem.png)
 
 ```shell
 git clone https://github.com/ohdowon064/Python_Algorithm/
@@ -33,7 +33,7 @@ git checkout "자신의 영어이름"
 
 ​	ex)5250_홍윤영.py
 
-![Problem_number](/Users/Yoon/Python_Algorithm/img/Problem_number.png)
+![Problem_number](/img/Problem_number.png)
 
 <center>[문제번호]</center>
 
